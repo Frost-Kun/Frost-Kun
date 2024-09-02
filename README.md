@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **chankietphan@gmail.com**
 
-- ⚡ Fun fact **I am good at chess and otaku**
+- ⚡ Fun fact **I am good at chess and I am an Otaku**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
