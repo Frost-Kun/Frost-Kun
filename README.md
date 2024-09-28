@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on (hidden) [https://www.facebook.com/profile.php?id=100012626987935](https://www.facebook.com/profile.php?id=100012626987935)
 
-- 💬 Ask me about **Python, C#**
+- 💬 Ask me about **Python, C, C++**
 
 - 📫 How to reach me **chankietphan@gmail.com**
 
