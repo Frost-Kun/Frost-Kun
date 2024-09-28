@@ -6,7 +6,7 @@
 
 - 📚 I’m currently study in **HCMUTE**
 
-- 🧑‍🎓 I’m currently learning **Infrastructure Management and Operations & Cyber Security**
+- 🧑‍🎓 I’m currently learning **Infrastructure Management and Operations & Information Security**
 
 - 👯 I’m looking to collaborate on **HCMUTE and HCMUIT**
 
