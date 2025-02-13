@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 I’m currently learning **Infrastructure Management and Operations & Information Security**
 
-- 👯 I’m looking to collaborate on **HCMUTE and HCMUIT**
+- 👯 I’m looking to collaborate on **HCMUTE and UIT**
 
 - 🤝 I’m looking for help with **IT-HCMUTE**
 
