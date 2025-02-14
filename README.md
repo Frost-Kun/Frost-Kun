@@ -4,13 +4,13 @@
 <img align="right" alt= "Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 
-- 📚 I’m currently study in **HCMUTE**
+- 📚 I’m currently study in **UIT-VNUHCM**
 
-- 🧑‍🎓 I’m currently learning **Infrastructure Management and Operations & Information Security**
+- 🧑‍🎓 I’m currently learning **Information Security & Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **HCMUTE and UIT**
 
-- 🤝 I’m looking for help with **IT-HCMUTE**
+- 🤝 I’m looking for help with **The Wolf of ICPC**
 
 - 📝 I regularly write articles on (hidden) [https://www.facebook.com/profile.php?id=100012626987935](https://www.facebook.com/profile.php?id=100012626987935)
 
