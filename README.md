@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **HCMUTE and UIT**
 
-- 🤝 I’m looking for help with **The Wolf of ICPC**
+- 🤝 I’m looking for help with **The Wolf**
 
 - 📝 I regularly write articles on (hidden) [https://www.facebook.com/profile.php?id=100012626987935](https://www.facebook.com/profile.php?id=100012626987935)
 
