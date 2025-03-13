@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **chankietphan@gmail.com and jaknc3@gmail.com for work anyways.**
 
-- ⚡ Fun fact **I am good at chess and I am an otaku**
+- ⚡ Fun fact **I am good at chess and I am simp Ganyu**
 
 - 😊 Discord **rl2.Jak**
 
