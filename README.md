@@ -6,7 +6,7 @@
 
 - 📚 I’m currently study in **UIT-VNUHCM**
 
-- 🧑‍🎓 I’m currently learning **Information Security & Artificial Intelligence**
+- 🧑‍🎓 I’m currently learning **Artificial Intelligence - Facility of Computer Science**
 
 - 👯 I’m looking to collaborate on **HCMUTE and UIT**
 
