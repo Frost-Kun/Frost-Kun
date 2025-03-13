@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python, C, C++**
 
-- 📫 How to reach me **chankietphan@gmail.com**
+- 📫 How to reach me **chankietphan@gmail.com and jaknc3@gmail.com for work anyways.**
 
 - ⚡ Fun fact **I am good at chess and I am an otaku**
 
